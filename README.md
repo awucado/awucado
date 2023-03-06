@@ -4,4 +4,4 @@
 - [Conan O' Brien Dartmouth Commencement Address](https://youtu.be/ELC_e2QBQMk?t=314)
 - [Taylor Swift Woman of The Decade 2019](https://youtu.be/hyf9vJB8V3s?t=527)
 - [Obama 2004 DNC Keynote](https://www.youtube.com/watch?v=OFPwDe22CoY&t=9s&ab_channel=THNKR)
-- [Justina Miles Rihanna's Super Bowl Halftime](https://www.youtube.com/watch?v=L4996X5hUZ8&ab_channel=VoltaMusic)
+- [Justina Miles - Rihanna's Super Bowl Halftime Show](https://www.youtube.com/watch?v=L4996X5hUZ8&ab_channel=VoltaMusic)

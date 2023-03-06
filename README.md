@@ -1,4 +1,5 @@
 - [DO MORE by Casey Neistat](https://www.youtube.com/watch?v=ZwYy4scOJi8&ab_channel=CaseyNeistat)
+- [Key Obama's Anger Translator](https://www.youtube.com/watch?v=HkAK9QRe4ds&ab_channel=C-SPAN)
 - [Emma Watson HeForShe 2014](https://youtu.be/gkjW9PZBRfk?t=494)
 - [Conan O' Brien Dartmouth Commencement Address](https://youtu.be/ELC_e2QBQMk?t=314)
 - [Taylor Swift Woman of The Decade 2019](https://youtu.be/hyf9vJB8V3s?t=527)

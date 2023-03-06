@@ -1,6 +1,6 @@
 
 
-## # Speeches and Blog Posts I Like:
+### Speeches and Blog Posts I Like:
 - [20 Exciting Software Development Project Ideas & Topics for Beginners](https://www.upgrad.com/blog/software-development-project-ideas-topics-for-beginners/)
 - [40 Side Project Ideas for Software Engineers](https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
 - [Make your own...](https://github.com/danistefanovic/build-your-own-x)
@@ -13,4 +13,3 @@
 - [49 Ideas for Game Clones to Code](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 - [Xetera's Programming Ideas List](https://xetera.notion.site/xetera/Programming-Ideas-079a80edd23748c897e9e47835ad6b4a)
 
-\

@@ -1,7 +1,7 @@
 
 
 ### Speeches and Blog Posts I Like:
-- [20 Exciting Software Development Project Ideas & Topics for Beginners](https://www.upgrad.com/blog/software-development-project-ideas-topics-for-beginners/)
+- [DO MORE by Casey Neistat]([https://www.upgrad.com/blog/software-development-project-ideas-topics-for-beginners/](https://www.youtube.com/watch?v=ZwYy4scOJi8&ab_channel=CaseyNeistat))
 - [40 Side Project Ideas for Software Engineers](https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
 - [Make your own...](https://github.com/danistefanovic/build-your-own-x)
 - [Practical Projects](https://github.com/karan/Projects)

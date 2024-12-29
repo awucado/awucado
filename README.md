@@ -1,5 +1,5 @@
 # Tech Stack
 
-- Vite: ![Vite](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/vite.svg)
-- Svelte: ![Svelte](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/svelte.svg)
-- TailwindCSS: ![TailwindCSS](https://cdn.jsdelivr.net/npm/devicon@2.14.0/devicon-icons/svg/tailwindcss.svg)
+- Vite: ![Vite](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vite.svg)
+- Svelte: ![Svelte](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/svelte.svg)
+- TailwindCSS: ![TailwindCSS](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg)
